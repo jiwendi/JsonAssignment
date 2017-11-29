@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JsonAssignment</string>
+    <string name="list">List</string>
+    <string name="count">Count</string>
+    <string name="modify">Modify</string>
+    <string name="result">result</string>
+</resources>
